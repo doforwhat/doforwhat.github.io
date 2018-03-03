@@ -188,7 +188,7 @@ body {
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 14px;
   line-height: 2;
-  color: rgba(255,255,255,0.8);
+  color: #fff;
   background: #fff;
 }
 @media (max-width: 767px) {
@@ -1822,7 +1822,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #390a58;
+  background: #ff14ff;
 }
 .links-of-blogroll {
   font-size: 13px;
